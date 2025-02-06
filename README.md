@@ -44,5 +44,7 @@
 ## Let's connect
 
 [![instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrfinndev)
+[![tiktok](https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/mrfinndev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrfinndev)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrfinndev)
+[![portfolio](https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=code&logoColor=white)](https://yourportfolio.com)
