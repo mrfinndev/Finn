@@ -8,7 +8,7 @@
 
 ## 🔧 Toolbox
 
-**Frontend Development:**
+### Frontend Development
 
 ![html](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![javascript](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,7 @@
 ![tailwind](https://img.shields.io/badge/tailwindcss-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend Development:**
+### Backend Development
 
 ![Node](https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black)
@@ -30,19 +30,16 @@
 ![postgres](https://img.shields.io/badge/postgres-699eca?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-00684A?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Mobile App Development**
+### Mobile App Development
 
 ![react](https://img.shields.io/badge/reactnative-1DA1F2?style=for-the-badge&logo=react&logoColor=white)
 
-**Blockchain Development:**
+### Blockchain Development
 
 ![solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity&logoColor=white)
 ![ethersjs](https://img.shields.io/badge/ethers.js-white?style=for-the-badge&logo=ethereum&logoColor=black)
 
-<!-- **Testing:**
-`Cypress` `Mocha` `Vitest` `Postman` `Insomnia` -->
-
-<!-- **Version Control:** `Git` `GitLab` -->
+**Version Control** `Git` `GitLab`
 
 ## Let's connect
 
