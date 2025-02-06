@@ -39,7 +39,7 @@
 ![solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity&logoColor=white)
 ![ethersjs](https://img.shields.io/badge/ethers.js-white?style=for-the-badge&logo=ethereum&logoColor=black)
 
-**Version Control** `Git` `GitLab`
+**Version Control System (VCS)** `Git` `GitLab`
 
 ## Let's connect
 
